@@ -3,7 +3,7 @@
         <proxy>
             <active>true</active>
             <protocol>http</protocol>
-            <host>proxy-internet.internal.fr</host>
+            <host>proxy-gin.internal.fr</host>
             <port>3128</port>
         </proxy>
     </proxies>
