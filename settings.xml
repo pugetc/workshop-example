@@ -1,10 +1,10 @@
 <settings>
     <proxies>
         <proxy>
-            <active>true</active>
+            <active>false</active>
             <protocol>http</protocol>
-            <host>proxy-gin.internal.fr</host>
-            <port>3128</port>
+            <host>blabla.internal.fr</host>
+            <port>9999</port>
         </proxy>
     </proxies>
 </settings>
